@@ -46,12 +46,8 @@ The script uses Selenium to automate the web browser and load the entire IMDb To
 - Selenium
 - BeautifulSoup
 - pandas
-- ChromeDriver (compatible with your version of Chrome)
+- ChromeDriver 
 
 ## Author
-- Your Name
-- Your USC ID
+- Yu-Chieh(Willow) Chen
 
-## Submission
-- Include this README, the Python script, and a PDF report detailing the script's functionality.
-- Provide a demo video link to demonstrate the script in action.
